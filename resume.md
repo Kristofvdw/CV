@@ -62,17 +62,19 @@ KENNIS EN ERVARING
 * GNU/Linux
 * Windows Server: basis 
 
-PROJECT ERVARING
+WERK ERVARING
 --------------------
-**Smart Beehive**
-: Web platform voor imkers; Project voor Hogeschool PXL
+**02/2017 - 10/2017**
+: Nrgfin BI Consulting Firma
 
 ***Taken***: 
  
-* Project management
-* Testen en QA
-* Automatische testen mbv Selenium/Webdriver [Github link](https://github.com/Kristofvdw/Beehive_BDD)
+* Qlik Sense Developer
+* Basis taken in MS SQL-Server
+* Administratie van Atlassian JIRA
 * Documentatie maken in Confluence
+* Basis kennis van SQL Server Integration Services
+* Goede kennis van MS Excel
 
 PERSONALIA
 ----------------------------------------
