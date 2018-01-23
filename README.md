@@ -1,14 +1,2 @@
-The Markdown Resume
-===================
-
-Instructions:
-
-    git clone https://github.com/mszep/pandoc_resume
-    cd pandoc_resume
-    vim resume.md   #insert your own resume info
-    make
-
-Requirements:
-
- * ConTeXt
- * pandoc
+CV can be found at: 
+https://hdu9qbicjxb3i1gz8ivk.oasis.sandstorm.io/
